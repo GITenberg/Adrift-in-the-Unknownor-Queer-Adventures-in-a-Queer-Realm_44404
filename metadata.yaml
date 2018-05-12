@@ -1,0 +1,27 @@
+_repo: Adrift-in-the-Unknownor-Queer-Adventures-in-a-Queer-Realm_44404
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44404-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Cook, William Wallace
+    alias: Edwards, John Milton
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '42736'
+    url: http://www.gutenberg.org/2009/agents/42736
+description: ''
+gutenberg_issued: '2013-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Adrift in the Unknown; or, Queer Adventures in a Queer Realm
+url: http://www.gutenberg.org/ebooks/44404
